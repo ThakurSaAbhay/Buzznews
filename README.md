@@ -1,11 +1,11 @@
 
-<h1 align="center">
+<h1>
   <br>
   Buzznews
   <br>
 </h1>
 
-<h4 align="center">A mobile news application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
+<h4 >A mobile news application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
 
   [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Buzznews?style=for-the-badge)](https://github.com/ThakurSaAbhay/Buzznews)
   [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Buzznews?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Buzznews)
