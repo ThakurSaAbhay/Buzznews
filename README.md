@@ -11,7 +11,7 @@
   [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Buzznews?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Buzznews)
   [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Buzznews?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
 
-<p align="center">
+<p>
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#about">About</a> •
