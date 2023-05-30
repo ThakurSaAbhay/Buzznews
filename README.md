@@ -21,7 +21,7 @@
 ## Key Features
 
 * Lightweight.
-* Fetches news through an api
+* Fetches news through **API**
 * One tap reach to news full article.
 * Recycler view scrolling experience.
 
